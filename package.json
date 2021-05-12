@@ -2,7 +2,8 @@
   "name": "wnumb",
   "version": "1.2.0",
   "description": "wNumb - JavaScript Number & Money formatting",
-  "main": "src/index.js",
+  "type": "module",
+  "main": "./src/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/leongersen/wnumb.git"
